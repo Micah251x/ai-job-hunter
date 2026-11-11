@@ -2,9 +2,9 @@ titles_include: [software engineer, software developer, full stack, fullstack, b
 titles_exclude: [sales, account executive, intern, manager, director, recruiter, principal, staff, data scientist, machine learning, ios, android, embedded, qa, test engineer]
 skills: [php, javascript, mysql, python, sql, aws, lambda, sqs, dynamodb, terraform, jquery, ajax, html, css, pydantic, openai, serverless, event-driven]
 remote_ok: true
-hybrid_locations: [austin, kyle, san marcos, round rock, seattle, New York, san diego, san antonio, dallas, denver, san francisco, atlanta, salt lake city]
+hybrid_locations: [austin]
 onsite_locations: []
-min_salary: 120000
+min_salary: 100000
 max_age_days: 30
 search_terms:
   # strongest match: your 5 years
