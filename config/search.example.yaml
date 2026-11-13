@@ -1,10 +1,12 @@
+# Example values. Copy to search.yaml and edit with your own preferences.
+
 titles_include: [software engineer, software developer, full stack, fullstack, backend, back end, web developer, php, python developer, cloud engineer, serverless, ai engineer]
 titles_exclude: [sales, account executive, intern, manager, director, recruiter, principal, staff, data scientist, machine learning, ios, android, embedded, qa, test engineer]
 skills: [php, javascript, mysql, python, sql, aws, lambda, sqs, dynamodb, terraform, jquery, ajax, html, css, pydantic, openai, serverless, event-driven]
 remote_ok: true
 hybrid_locations: [austin]
 onsite_locations: []
-min_salary: 100000
+min_salary: 150000
 max_age_days: 30
 search_terms:
   # strongest match: your 5 years
